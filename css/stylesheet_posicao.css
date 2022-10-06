@@ -1,0 +1,94 @@
+.corpo{
+    align-items: center;
+    border-color: black;
+    border-style: solid; 
+    border-width: 6px;
+    margin: 6px;
+}
+
+.cabecalho{
+    
+    padding: 6px;
+}
+
+.cabecalhoContainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+.principalContainer{
+    background-color: #e0e0b6;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+.principalCripDecripEntrada{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.principalCripDecripEntradaBotaoCrip{
+    margin: 6px;
+}
+
+.principalCripDecripEntradaBotaoDecrip{
+    margin: 6px;
+}
+
+.principalCripDecripSaidaBotaoCopiar{
+    margin: 6px;
+}
+
+.principalCripDecripSaida{
+    
+}
+.rodapeContainer{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rodapeContainerPatrocinadores{
+    display: flex-start;
+    justify-content: space-between;
+    padding: 10px; 
+}
+
+.rodapeContainerDesenvolvedorlogoDev{
+    padding: 10px;
+}
+
+.rodapeContainerAlura{
+    padding: 10px;
+}
+
+.rodapeContainerOracle{
+    padding: 10px;
+}
+
+.rodapeContainerDesenvolvedorNome{
+    padding: 10px;
+}
+
+.oqueeContainer{
+    background-color: #e0e0b6;
+    padding: 6px;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
